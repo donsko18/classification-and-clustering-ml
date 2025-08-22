@@ -21,4 +21,4 @@ Aplikasi ini memadukan **backend PHP** dan **Python (Flask)** untuk pemrosesan d
 | **Bahasa**       | PHP 7.4.4, Python 3.11.5 |
 | **Framework**    | Flask (untuk `app.py`) |
 | **Database**     | MySQL 7.4.4 |
-| **Algoritma ML** | K-Means Clustering, Decision Tree |
+| **Algoritma ML** | K-Means Clustering, Decision Tree (CART) |
