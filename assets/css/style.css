@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* Warna latar belakang bisa disesuaikan */
+}
+
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Ubah text-align ke kiri */
+}
+
+.login-container img {
+    display: block;
+    max-width: 100px;
+    margin: 0 auto 20px; /* Margin auto untuk centering gambar */
+}
+
+.login-container .form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.footer-text {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #6c757d;
+    text-align: center; /* Footer text di-center */
+}
+
+.footer-text a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer-text a:hover {
+    text-decoration: underline;
+}

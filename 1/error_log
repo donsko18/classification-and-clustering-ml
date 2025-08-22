@@ -1,0 +1,290 @@
+[05-Jan-2025 15:45:50 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 15:45:52 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/process_kmeans.php on line 12
+[05-Jan-2025 15:46:52 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 15:56:51 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[05-Jan-2025 15:57:46 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 15:57:48 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 12
+[05-Jan-2025 16:05:14 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 12
+[05-Jan-2025 16:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 28
+[05-Jan-2025 16:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 29
+[05-Jan-2025 16:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 30
+[05-Jan-2025 16:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 31
+[05-Jan-2025 16:05:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skrips78/public_html/1/process_kmeans.php on line 174
+[05-Jan-2025 16:05:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skrips78/public_html/1/process_kmeans.php on line 207
+[05-Jan-2025 16:05:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 265
+[05-Jan-2025 16:11:04 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 12
+[05-Jan-2025 16:14:54 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/process_kmeans.php on line 12
+[05-Jan-2025 16:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 28
+[05-Jan-2025 16:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 29
+[05-Jan-2025 16:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 30
+[05-Jan-2025 16:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 31
+[05-Jan-2025 16:14:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skrips78/public_html/1/process_kmeans.php on line 174
+[05-Jan-2025 16:14:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skrips78/public_html/1/process_kmeans.php on line 234
+[05-Jan-2025 16:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/skrips78/public_html/1/process_kmeans.php on line 265
+[05-Jan-2025 16:37:45 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:38:44 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:40:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:41:49 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:45:20 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:49:40 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:50:38 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:51:52 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:52:50 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:53:23 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:56:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:58:02 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:58:08 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:59:14 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 16:59:28 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:08:29 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:08:31 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:10:02 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:17:33 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:18:07 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:19:04 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:19:07 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:19:41 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:20:49 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:21:04 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:21:54 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:30:18 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[05-Jan-2025 17:30:32 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:30:32 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[05-Jan-2025 17:30:35 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:31:55 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:41:08 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:41:08 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[05-Jan-2025 17:41:10 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:47:10 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:47:12 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:47:12 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[05-Jan-2025 17:48:06 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:48:08 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:48:08 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[05-Jan-2025 17:48:11 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:49:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 17:49:34 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[05-Jan-2025 17:49:34 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[05-Jan-2025 17:49:36 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[05-Jan-2025 18:07:53 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 03:35:55 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 03:35:57 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[06-Jan-2025 03:40:19 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[06-Jan-2025 03:40:51 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 03:40:54 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 03:40:56 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 03:42:07 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 03:42:09 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 03:42:09 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 03:42:11 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 03:52:05 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:12:47 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 04:14:16 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:15:25 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:15:27 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:17:26 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:17:26 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 04:18:35 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:18:57 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:18:59 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:23:00 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:27:01 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:27:34 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:27:36 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:33:25 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:33:27 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:33:27 UTC] PHP Notice:  Undefined variable: scatter_plot_url in /home/skrips78/public_html/1/process_kmeans.php on line 141
+[06-Jan-2025 04:36:02 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:36:04 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:36:05 UTC] PHP Notice:  Undefined variable: scatter_plot_url in /home/skrips78/public_html/1/process_kmeans.php on line 141
+[06-Jan-2025 04:46:02 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:46:06 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:46:06 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 04:46:26 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:46:26 UTC] PHP Notice:  Undefined variable: scatter_plot_url in /home/skrips78/public_html/1/process_kmeans.php on line 141
+[06-Jan-2025 04:46:30 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:46:30 UTC] PHP Notice:  Undefined variable: scatter_plot_url in /home/skrips78/public_html/1/process_kmeans.php on line 141
+[06-Jan-2025 04:59:26 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 04:59:28 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 04:59:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 05:01:37 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 08:57:41 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 08:57:46 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 08:57:58 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 08:57:58 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 105
+[06-Jan-2025 11:07:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 11:07:34 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 11:07:34 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 13:49:26 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 13:49:28 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 13:49:28 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[06-Jan-2025 13:49:31 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[06-Jan-2025 13:56:54 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 14:56:46 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[06-Jan-2025 14:56:46 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[07-Jan-2025 09:28:42 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 09:28:44 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 09:28:44 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/process_kmeans.php on line 13
+[07-Jan-2025 09:28:45 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 09:28:48 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[07-Jan-2025 09:28:49 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 10:16:21 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 10:16:23 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 10:19:15 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 10:19:19 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 10:48:22 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 10:48:24 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 10:48:40 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 10:49:19 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 10:49:56 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:01:02 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:03:17 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 12:04:48 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/decision-tree-kombinasi?testSize=0.4&amp;timestamp=1736251488): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 12
+[07-Jan-2025 12:05:50 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/decision-tree-kombinasi?testSize=0.4&amp;timestamp=1736251550): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 12
+[07-Jan-2025 12:09:35 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:09:47 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 105
+[07-Jan-2025 12:10:19 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:11:51 UTC] PHP Warning:  unlink(../upload/scatter_plot_1736251787.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 12:11:53 UTC] PHP Warning:  unlink(../upload/scatter_plot_1736153878.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 12:17:15 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:17:25 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 87
+[07-Jan-2025 12:17:47 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:23:03 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:24:08 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:24:15 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 105
+[07-Jan-2025 12:24:41 UTC] PHP Warning:  unlink(../upload/scatter_plot_1736252655.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 12:24:47 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:24:50 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 12:27:20 UTC] PHP Warning:  unlink(../upload/scatter_plot_1736252245.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 12:27:37 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:27:47 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 87
+[07-Jan-2025 12:35:10 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:35:12 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 12:39:06 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:39:09 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 12:40:40 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:42:09 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:49:15 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:49:22 UTC] PHP Warning:  copy(/upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 85
+[07-Jan-2025 12:58:11 UTC] PHP Warning:  unlink(../upload/scatter_plot_1736252867.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 12:58:13 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:58:46 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 12:58:48 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 13:00:54 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:00:57 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 13:02:24 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:02:32 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 87
+[07-Jan-2025 13:03:04 UTC] PHP Warning:  unlink(../upload/scatter_plot1736254952.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 13:03:06 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:03:08 UTC] PHP Warning:  unlink(../upload/scatter_plot.png): No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 3
+[07-Jan-2025 13:04:09 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:38:06 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:38:17 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 78
+[07-Jan-2025 13:38:17 UTC] PHP Warning:  copy(../upload/scatter_plot.png): failed to open stream: No such file or directory in /home/skrips78/public_html/1/process_kmeans.php on line 88
+[07-Jan-2025 13:39:41 UTC] PHP Warning:  unlink(../upload/scatter_plot1736257097.png): No such file or directory in /home/skrips78/public_html/1/history.php on line 60
+[07-Jan-2025 13:39:49 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:40:28 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[07-Jan-2025 13:40:54 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[08-Jan-2025 00:00:40 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[08-Jan-2025 00:08:57 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[08-Jan-2025 00:09:12 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[12-Jan-2025 06:01:09 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[12-Jan-2025 06:01:30 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[15-Jan-2025 04:44:49 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[15-Jan-2025 04:48:42 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 173
+[15-Jan-2025 04:48:46 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 173
+[15-Jan-2025 04:48:52 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 173
+[15-Jan-2025 04:49:02 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 173
+[15-Jan-2025 04:49:07 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 173
+[15-Jan-2025 05:05:23 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[15-Jan-2025 05:13:18 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 03:43:29 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 03:43:32 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[18-Jan-2025 03:51:00 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 03:51:22 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 05:40:40 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 05:40:43 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[18-Jan-2025 05:45:32 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/decision-tree?testSize=0.4&amp;timestamp=1737179132): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/hasilDT.php on line 12
+[18-Jan-2025 05:49:27 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 05:59:31 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:01:30 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:02:06 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:02:28 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:03:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:03:41 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:03:43 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[18-Jan-2025 06:12:33 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 06:28:16 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 07:20:27 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 07:23:29 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 07:23:38 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 07:42:58 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 07:43:09 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:40:55 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:41:32 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:42:02 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:42:56 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:46:24 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:47:49 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:47:59 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 13:55:08 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 14:02:59 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 14:29:53 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/decision-tree?testSize=0.4&amp;timestamp=1737210592): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/hasilDT.php on line 12
+[18-Jan-2025 17:36:23 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 17:36:25 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[18-Jan-2025 23:11:31 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[18-Jan-2025 23:37:24 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 04:51:23 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 04:53:11 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/decision-tree-kombinasi?testSize=0.4&amp;timestamp=1737262391): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/skrips78/public_html/1/kombinasi_hasilDT.php on line 12
+[19-Jan-2025 04:54:37 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 05:30:33 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 05:30:50 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 05:31:09 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 05:45:25 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 06:07:38 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[19-Jan-2025 06:08:13 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:01:06 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:01:45 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:01:48 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[20-Jan-2025 07:03:08 UTC] PHP Warning:  file_get_contents(http://backend.skripsidonnie.my.id/perbandingan-kmeans-process): failed to open stream: HTTP request failed! HTTP/1.1 500 INTERNAL SERVER ERROR
+ in /home/skrips78/public_html/1/perbandingan_process_kmeans.php on line 12
+[20-Jan-2025 07:04:14 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:04:45 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:05:34 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:05:46 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 07:41:53 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124
+[20-Jan-2025 10:56:23 UTC] PHP Notice:  Undefined variable: button in /home/skrips78/public_html/1/kmeans.php on line 124

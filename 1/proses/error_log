@@ -1,0 +1,2 @@
+[05-Jan-2025 16:37:10 UTC] PHP Notice:  Undefined variable: sql in /home/skrips78/public_html/1/proses/prosesformkm.php on line 53
+[05-Jan-2025 16:37:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skrips78/public_html/1/proses/prosesformkm.php on line 53

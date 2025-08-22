@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Arahkan /dashboard ke folder sesuai role
+RewriteCond %{REQUEST_URI} ^/skripsidoni/dashboard$ [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Cek session dan arahkan ke folder role-nya
+RewriteRule ^dashboard$ dashboard.php [L]
